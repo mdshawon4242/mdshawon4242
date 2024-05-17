@@ -1,5 +1,5 @@
 ![Web Developer](https://scontent.fdac23-1.fna.fbcdn.net/v/t39.30808-6/436379613_1817844042059318_657538351879279139_n.jpg?stp=dst-jpg_s2048x2048&_nc_cat=111&ccb=1-7&_nc_sid=5f2048&_nc_eui2=AeG3lxlaJ5d036wdigUQ2NND1LVZXplDErnUtVlemUMSuYNcVjyPQcH_co8GZJXjnipWHTb6baDH4Oa07qqyzNNV&_nc_ohc=COhNMXIo-asQ7kNvgEgQTQm&_nc_ht=scontent.fdac23-1.fna&oh=00_AYDPlAw0fwV0arpDNPvP7cctqNI1C4hkQxLZwz-GdZC_Kw&oe=664D26EA)
-### Hi there 👋, I'm Shawon Akondo#### Web Developer
+### Hi there 👋, I'm Shawon Akondo
 
 I'm a Web Developer & Graphics Desinger. I love programming,reding, writing and speaking.
 As a Web Developer, I enjoy using my obsessive attention to detail.
